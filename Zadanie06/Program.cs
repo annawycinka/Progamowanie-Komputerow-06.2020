@@ -29,7 +29,7 @@ namespace Zadanie6
                 }
             }
 
-            Console.WriteLine($"Suma wynosi: {sum}");
+            Console.WriteLine($"Sumaa wynosi: {sum}");
         }
     }
 }
